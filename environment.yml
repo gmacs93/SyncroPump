@@ -4,13 +4,7 @@ channels:
 dependencies:
   - python=3.11
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
-  - dask
   - ipywidgets
-  - IPython.display
+  - IPython
